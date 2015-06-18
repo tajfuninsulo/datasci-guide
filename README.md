@@ -6,6 +6,7 @@
 
 這邊的紀錄我也一樣以 Coursera 上 [Johns Hopkins University](https://www.coursera.org/jhu) 的一系列 Data Science 課程為主，但是還會加上來自不同教材的補充和整合。
 
+### Coursera 
 * [The Data Scientist’s Toolbox](https://www.coursera.org/course/datascitoolbox)
 * [Getting and Cleaning Data](https://www.coursera.org/course/getdata)
 * [R Programming](https://www.coursera.org/course/rprog)
