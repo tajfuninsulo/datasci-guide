@@ -21,7 +21,7 @@
    * [4.07. REST API](4.07.rest_api.md)
    * [4.08. MySQL](4.08.mysql.md)
    * [4.09. HDF5](4.09.hdf5.md)
-   * [4.10. Other...](4.10.other.md)
+   * [4.10. 其他格式...](4.10.other.md)
 * [5. Cleaning Data](5.cleaning_data.md)
    * [5.01. Subsetting](5.01.subsetting.md)
    * [5.02. Summarizing](5.02.summarizing.md)
