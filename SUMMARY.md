@@ -6,4 +6,5 @@
    * [1.01. Windows](1.01.windows.md)
    * [1.02. Mac OS X](1.02.mac_os_x.md)
    * [1.03.Linux](1.03.linux.md)
+* 2. Basics
 
