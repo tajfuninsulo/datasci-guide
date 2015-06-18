@@ -9,4 +9,6 @@
 * [2. Basics](2.basics.md)
 * [3. R](3.r.md)
 * [4. Reading and Writing](4.reading&writing.md)
+* [5. Cleaning Data](5.cleaning_data.md)
+* [6. Visualization](6.visualization.md)
 
