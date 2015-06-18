@@ -7,7 +7,7 @@
    * [Mac OS X](1.02.mac_os_x.md)
    * [Linux](1.03.linux.md)
 * [基本說明](2.basics.md)
-   * [資料分析的類別](2.01.analysis.types.md)
+   * [資料分析的類別](2.01.analysis_types.md)
    * [機器學習](2.02.machine_learning.md)
    * [Tidy Dataset](2.03.tidy_dataset.md)
 * [R 語言](3.r.md)
