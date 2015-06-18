@@ -23,5 +23,12 @@
    * [4.09. HDF5](4.09.hdf5.md)
    * [4.10. Other...](4.10.other.md)
 * [5. Cleaning Data](5.cleaning_data.md)
+   * [5.01. Subsetting](5.01.subsetting.md)
+   * [5.02. Summarizing](5.02.summarizing.md)
+   * [5.03. New Variables](5.03.new_variables.md)
+   * [5.04. Reshaping](5.04.reshaping.md)
+   * [5.05. Merging](5.05.merging.md)
+   * [5.06. Editing text](5.06.editing_text.md)
+   * [5.07. Regular Expressions](5.07.regular_expressions.md)
 * [6. Visualization](6.visualization.md)
 
