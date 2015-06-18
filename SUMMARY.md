@@ -7,6 +7,7 @@
    * [1.02. Mac OS X](1.02.mac_os_x.md)
    * [1.03.Linux](1.03.linux.md)
 * [2. Basics](2.basics.md)
+   * 2.01. 資料分析的類別
 * [3. R](3.r.md)
 * [4. Reading and Writing](4.reading&writing.md)
 * [5. Cleaning Data](5.cleaning_data.md)
