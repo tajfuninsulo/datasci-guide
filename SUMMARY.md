@@ -22,7 +22,7 @@
    * [Packages](3.09.packages.md)
    * [Vectorized Operations](3.10.vectorized_operations.md)
    * [Date and Time](3.11.date_and_time.md)
-   * [Loop Functions](3.12.loop_functions)
+   * [Loop Functions](3.12.loop_functions.md)
    * [Split Function](3.13.split_function.md)
    * [Random Variables](3.14.random_variables.md)
    * [Simulate Linear Model](3.15.simulate_linear_model.md)
