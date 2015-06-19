@@ -11,3 +11,12 @@
 * [Getting and Cleaning Data](https://www.coursera.org/course/getdata)
 * [R Programming](https://www.coursera.org/course/rprog)
 
+### 其他參考資料與書籍
+ * [Data Science for Dummies](http://www.barnesandnoble.com/w/data-science-for-dummies-lillian-pierson/1120691009?ean=9781118841556)
+ * [Data Science from Scratch - OReilly](http://shop.oreilly.com/product/0636920033400.do)
+ * [深入淺出資料分析 - OReilly]()
+ * [菜鳥七步學會數據分析 (簡)]()
+ * [誰說菜鳥不會數據分析 工具篇 (簡)]()
+ 
+ 
+ 
